@@ -9,7 +9,6 @@ const io = socketIo(server);
 app.use(express.static("client"));
 
 io.on("connection", (socket) => {
-  console.log("User connected");
 
   socket.on("set username", (username) => {
     if (!username) return;
@@ -18,12 +17,16 @@ io.on("connection", (socket) => {
   });
 
   socket.on("chat message", (data) => {
-    const time = new Date().toLocaleTimeString();
+    const time = new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
     io.emit("chat message", {
       user: data.user,
       text: data.text,
       time: time,
     });
+  });
+
+  socket.on("typing", (data) => {
+    socket.broadcast.emit("typing", data);
   });
 
   socket.on("disconnect", () => {
