@@ -109,29 +109,29 @@ This project was a great way to explore real-time web development using Socket.I
 ---
 ---
 
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/59097eab-7a33-4448-94cb-fc5249013782" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/91ad3c9e-c1af-4786-9052-66c4f5ca4bf1" />
 
 ---
 ---
 
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/eab233ee-27e1-4855-ae01-4acc1f7b8ae6" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/f5ad4324-a124-4541-93e8-a105fcf41a6d" />
 
 ---
 ---
 
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/ed6347bf-7981-4d1a-8644-260387a4b75a" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/4258ae48-2fa1-44f9-8606-2cf9da84235d" />
 
 ---
 ---
 
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/6018c8be-3802-44c1-8807-384225de2ead" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/0f7c2011-60dc-4155-901b-a9aa94d984f3" />
 
 ---
 ---
 
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/b188ec82-5343-4d54-9171-88e10b2fd4d3" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/5768542a-e5b0-4a80-ba29-ff944efae4ed" />
 
 ---
 ---
 
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/f2ac4060-6fd5-475a-8818-90f0c408f6bb" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/b1c27007-85b5-4086-afbb-e61adb66a1f7" />
