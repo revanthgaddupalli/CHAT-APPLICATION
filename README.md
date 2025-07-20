@@ -104,7 +104,7 @@ You can open multiple tabs or windows to simulate multiple users.
 This project was a great way to explore real-time web development using Socket.IO. It’s simple, functional, and designed with clean code and UI in mind — a solid base to learn from or expand into something bigger.
 
 ## OUTPUT
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/5177f683-98b2-4356-85c4-f26a67be89e3" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/a6c792b6-a00b-4fac-9346-0f6d557bbde6" />
 
 ---
 ---
